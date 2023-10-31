@@ -1,0 +1,20 @@
+name="""
+   A    RRRR  TTTTT U   U RRRR
+  A A   R   R   T   U   U R   R
+ A   A  R   R   T   U   U R   R
+ AAAAA  RRRRR   T   U   U RRRR
+ A   A  R R     T   U   U R R
+ A   A  R  R    T   U   U R  R
+ A   A  R   R   T    UUU  R   R
+ """
+ #Artur Nurullin
+ #Gamer
+
+print("  A  ")
+print(" A A ")
+print("A   A")
+print("AAAAA")
+print("A   A")
+print("A   A")
+print("A   A")
+print(name)
